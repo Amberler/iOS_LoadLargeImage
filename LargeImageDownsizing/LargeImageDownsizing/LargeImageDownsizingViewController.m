@@ -136,7 +136,7 @@
 - (void)dealloc {
     [destImage release];
     [scrollView release];
-    //--
+
     [super dealloc];
 }
 
